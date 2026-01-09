@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Özgür Doğan Güneş,Computer Science Student
-- 👀 I’m interested in AI and Database
-- 🌱 I’m currently learning Swift,C,Java
+- 👋 Hi, I’m Özgür Doğan Güneş
